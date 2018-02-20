@@ -1,2 +1,2 @@
 # jweb
-Personal web page
+This is a sample java web personal project.
